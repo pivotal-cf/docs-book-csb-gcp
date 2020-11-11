@@ -10,3 +10,4 @@ cached_shas.yml
 bin
 [#]*[#]
 .DS_Store
+.ruby-version
