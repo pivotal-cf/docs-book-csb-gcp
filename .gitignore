@@ -1,6 +1,8 @@
 *.log
 output
 final_app
+Gemfile
+Gemfile.lock
 .bundle
 final_app/*
 cached_shas.yml
