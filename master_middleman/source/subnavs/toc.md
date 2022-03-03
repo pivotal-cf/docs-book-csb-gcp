@@ -1,6 +1,6 @@
 *   [Tanzu Cloud Service Broker for GCP](/docs-csb-gcp/index.html)
 *   [Release Notes](/docs-csb-gcp/release-notes.html)
-*   [Installing and Configuring](/docs-csb-gcp/installing.html)
+*   [Installing and Configuring](/docs-csb-gcp/installing-with-gcp.html)
 *   [Service Plan Reference](/docs-csb-gcp/reference/index.html)
     *   [Google PostgreSQL](/docs-csb-gcp/reference/gcp-postgresql.html)
     *   [Google MySQL](/docs-csb-gcp/reference/gcp-mysql.html)
