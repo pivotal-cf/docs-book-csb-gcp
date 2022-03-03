@@ -8,4 +8,4 @@
     *   [Google Redis](/docs-csb-gcp/reference/gcp-redis.html)
     *   [Google Spanner](/docs-csb-gcp/reference/gcp-spanner.html)
     *   [Google Dataproc](/docs-csb-gcp/reference/gcp-dataproc.html)
-    *   [Google Stack Driver Trace](/docs-csb-gcp/reference/gcp-stack-driver-trace.html)
+    *   [Google Stackdriver Trace](/docs-csb-gcp/reference/gcp-stack-driver-trace.html)
